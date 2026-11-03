@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "properties": { "ST_NM": "Delhi", "code": "DL" }, "geometry": { "type": "Polygon", "coordinates": [[[76.8, 28.4], [77.3, 28.4], [77.3, 28.9], [76.8, 28.9], [76.8, 28.4]]] } },
+    { "type": "Feature", "properties": { "ST_NM": "Maharashtra", "code": "MH" }, "geometry": { "type": "Polygon", "coordinates": [[[72.6, 18.5], [80.5, 18.5], [80.5, 21.5], [72.6, 21.5], [72.6, 18.5]]] } },
+    { "type": "Feature", "properties": { "ST_NM": "Karnataka", "code": "KA" }, "geometry": { "type": "Polygon", "coordinates": [[[74.0, 11.5], [78.5, 11.5], [78.5, 18.5], [74.0, 18.5], [74.0, 11.5]]] } },
+    { "type": "Feature", "properties": { "ST_NM": "Tamil Nadu", "code": "TN" }, "geometry": { "type": "Polygon", "coordinates": [[[76.2, 8.1], [80.3, 8.1], [80.3, 13.5], [76.2, 13.5], [76.2, 8.1]]] } },
+    { "type": "Feature", "properties": { "ST_NM": "Uttar Pradesh", "code": "UP" }, "geometry": { "type": "Polygon", "coordinates": [[[77.1, 23.9], [84.6, 23.9], [84.6, 30.4], [77.1, 30.4], [77.1, 23.9]]] } },
+    { "type": "Feature", "properties": { "ST_NM": "Telangana", "code": "TG" }, "geometry": { "type": "Polygon", "coordinates": [[[77.2, 15.8], [81.3, 15.8], [81.3, 19.9], [77.2, 19.9], [77.2, 15.8]]] } },
+    { "type": "Feature", "properties": { "ST_NM": "Gujarat", "code": "GJ" }, "geometry": { "type": "Polygon", "coordinates": [[[68.2, 20.1], [74.5, 20.1], [74.5, 24.7], [68.2, 24.7], [68.2, 20.1]]] } },
+    { "type": "Feature", "properties": { "ST_NM": "West Bengal", "code": "WB" }, "geometry": { "type": "Polygon", "coordinates": [[[85.8, 21.5], [89.9, 21.5], [89.9, 27.2], [85.8, 27.2], [85.8, 21.5]]] } },
+    { "type": "Feature", "properties": { "ST_NM": "Kerala", "code": "KL" }, "geometry": { "type": "Polygon", "coordinates": [[[74.9, 8.3], [77.5, 8.3], [77.5, 12.8], [74.9, 12.8], [74.9, 8.3]]] } },
+    { "type": "Feature", "properties": { "ST_NM": "Rajasthan", "code": "RJ" }, "geometry": { "type": "Polygon", "coordinates": [[[69.5, 23.1], [78.2, 23.1], [78.2, 30.2], [69.5, 30.2], [69.5, 23.1]]] } },
+    { "type": "Feature", "properties": { "ST_NM": "Madhya Pradesh", "code": "MP" }, "geometry": { "type": "Polygon", "coordinates": [[[74.0, 21.1], [82.8, 21.1], [82.8, 26.9], [74.0, 26.9], [74.0, 21.1]]] } },
+    { "type": "Feature", "properties": { "ST_NM": "Punjab", "code": "PB" }, "geometry": { "type": "Polygon", "coordinates": [[[73.8, 29.5], [76.9, 29.5], [76.9, 32.5], [73.8, 32.5], [73.8, 29.5]]] } },
+    { "type": "Feature", "properties": { "ST_NM": "Haryana", "code": "HR" }, "geometry": { "type": "Polygon", "coordinates": [[[74.4, 27.6], [77.6, 27.6], [77.6, 30.9], [74.4, 30.9], [74.4, 27.6]]] } },
+    { "type": "Feature", "properties": { "ST_NM": "Andhra Pradesh", "code": "AP" }, "geometry": { "type": "Polygon", "coordinates": [[[76.8, 12.6], [84.8, 12.6], [84.8, 19.1], [76.8, 19.1], [76.8, 12.6]]] } },
+    { "type": "Feature", "properties": { "ST_NM": "Odisha", "code": "OD" }, "geometry": { "type": "Polygon", "coordinates": [[[81.4, 17.8], [87.5, 17.8], [87.5, 22.6], [81.4, 22.6], [81.4, 17.8]]] } },
+    { "type": "Feature", "properties": { "ST_NM": "Bihar", "code": "BR" }, "geometry": { "type": "Polygon", "coordinates": [[[83.3, 24.3], [88.3, 24.3], [88.3, 27.5], [83.3, 27.5], [83.3, 24.3]]] } },
+    { "type": "Feature", "properties": { "ST_NM": "Assam", "code": "AS" }, "geometry": { "type": "Polygon", "coordinates": [[[89.7, 24.1], [96.0, 24.1], [96.0, 28.0], [89.7, 28.0], [89.7, 24.1]]] } },
+    { "type": "Feature", "properties": { "ST_NM": "Jharkhand", "code": "JH" }, "geometry": { "type": "Polygon", "coordinates": [[[83.3, 21.9], [87.9, 21.9], [87.9, 25.3], [83.3, 25.3], [83.3, 21.9]]] } },
+    { "type": "Feature", "properties": { "ST_NM": "Uttarakhand", "code": "UK" }, "geometry": { "type": "Polygon", "coordinates": [[[77.6, 28.7], [81.1, 28.7], [81.1, 31.5], [77.6, 31.5], [77.6, 28.7]]] } },
+    { "type": "Feature", "properties": { "ST_NM": "Himachal Pradesh", "code": "HP" }, "geometry": { "type": "Polygon", "coordinates": [[[75.6, 30.4], [79.0, 30.4], [79.0, 33.2], [75.6, 33.2], [75.6, 30.4]]] } }
+  ]
+}
